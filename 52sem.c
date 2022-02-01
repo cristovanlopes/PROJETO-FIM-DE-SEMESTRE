@@ -7,7 +7,7 @@ setlocale(LC_ALL, "Portuguese");
 
 /* Disciplina: Introdução a Programação
 Professor: Paulo Cesar Melo
-Alunos(a): Maria Eduarda de Souza, Cristovan
+Alunos(a): Maria Eduarda de Souza, Cristovan Lopes Araujo dos Santos
 Curso: Sistemas de Informação
 
 O projeto tem como objetivo desafiar as pessoas a guardarem dinheiro de forma gradual durante um período de 52 semanas. 
